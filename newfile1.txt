@@ -1,1 +1,3 @@
-A new file for this test. 
+A new file for this test.
+Now changing for merge conflict.
+
