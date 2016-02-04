@@ -1,3 +1,4 @@
 A new file for this test.
 Now changing for merge conflict.
 & changing
+adding a line
